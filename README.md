@@ -15,4 +15,4 @@ This is a basic Calculator Web Application built using HTML, CSS, and JavaScript
 ---
 
 ## Live Preview
-[Output](https://soyuzdangol55.github.io/Modern-Web-Design/)
+[Output](https://soyuzdangol55.github.io/Simple-Calculator/)
