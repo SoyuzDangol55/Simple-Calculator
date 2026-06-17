@@ -11,3 +11,8 @@ This is a basic Calculator Web Application built using HTML, CSS, and JavaScript
 >Adding functionality using JavaScript
 
 >The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+---
+
+## Live Preview
+[Output](https://soyuzdangol55.github.io/Modern-Web-Design/)
